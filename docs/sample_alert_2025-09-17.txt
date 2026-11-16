@@ -1,0 +1,9 @@
+Daily performance: Wed 17 Sep 2025
+
+  Active users (DAU)                     313   LOW  (usual 380 to 513)
+  Successful transactions                347   LOW  (usual 462 to 626)
+  Payment value (TPV)          MRD 13,205.00   LOW  (usual MRD 14,991.64 to MRD 25,663.49)
+  Success rate                         64.7%   LOW  (usual 89.8% to 96.0%)
+  New customers                            2
+
+4 figures are outside the usual range for a Wednesday. Worth a look before the day's reports go out.
